@@ -1,9 +1,9 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: This Is a Toy Package
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R: "Zawadzki", "Sophie", "sophie.zawadzki@forestresearch.gov.uk", role = c("aut", "cre")
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: This is a toy package from the book "R Packages (2e)" by Hadley Wickham and Jennifer Bryan, as an exercise in building packages from scractch.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
