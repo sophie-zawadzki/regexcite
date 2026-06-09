@@ -1,9 +1,10 @@
 Package: regexcite
-Title: This Is a Toy Package
+Title: Make Regular Expressions More Exciting
 Version: 0.0.0.9000
-Authors@R: "Zawadzki", "Sophie", "sophie.zawadzki@forestresearch.gov.uk", role = c("aut", "cre")
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: This is a toy package from the book "R Packages (2e)" by Hadley Wickham and Jennifer Bryan, as an exercise in building packages from scractch.
+Authors@R: 
+    person("Sophie", "Zawadzki", , "sophie.zawadzki@forestresearch.gov.uk", role = c("aut", "cre"))
+Description:Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
